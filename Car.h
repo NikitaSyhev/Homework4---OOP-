@@ -25,7 +25,7 @@ public:
 	void setColor(std::string color);
 
 private:
-	std::string _type;
+
 	std::string _color;
 
 
@@ -40,7 +40,7 @@ public:
 
 
 private:
-	std::string _type;
+
 	int _price;
 
 };
